@@ -73,7 +73,7 @@ export default function OpenPoliticaFeatures() {
       id: "feed",
       icon: MessageCircleIcon,
       title: "The Feed",
-      description: "An infinite scroll of trending debates, intelligent discussions, surveys, and polls. AI personalizes content based on your interests.",
+      description: "An infinite scroll of trending debates, discussions, surveys, and polls. AI personalizes content based on your interests.",
       highlights: [
         "AI-curated content personalization",
         "Trending debates & discussions",

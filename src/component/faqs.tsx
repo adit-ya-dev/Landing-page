@@ -7,7 +7,7 @@ const reviews = [
   {
     name: "Aditya",
     username: "Is my data safe?",
-    body: "I've never seen anything like this before. It's amazing. I love it.",
+    body: "Yes. We use decentralized Web3 protocols to store and anonymize your data. You control access at every step.",
     img: `https://api.dicebear.com/8.x/avataaars/svg?seed=Aditya`,
   },
   {
@@ -25,7 +25,7 @@ const reviews = [
   {
     name: "Fidaini",
     username: "What if I do not want to sell my data?",
-    body: "I'm at a loss for words. This is amazing. I love it.",
+    body: "No problem. You can still use all features without ever selling your data. Everything is opt-in and fully under your control..",
     img: `https://api.dicebear.com/8.x/avataaars/svg?seed=Fidaini`,
   },
   {
