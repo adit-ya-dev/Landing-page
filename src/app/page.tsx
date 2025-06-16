@@ -1,7 +1,7 @@
-"use client"
+
 import { MarqueeDemo } from '@/component/faqs';
 import Footer from '@/component/footer';
-import OpenPoliticaLanding from '@/component/Homepage'; // Changed from Openpolitica
+import OpenPoliticaLanding from '@/component/Homepage'; 
 import OpenPoliticaFeatures from '@/component/socials';
 import { GlowingEffectDemo } from '@/component/subheader';
 
@@ -10,9 +10,10 @@ export default function Page() {
     <div>
       <OpenPoliticaLanding />
       <GlowingEffectDemo />
-      <OpenPoliticaFeatures />
-      <MarqueeDemo />
-      <Footer />
+      <OpenPoliticaFeatures/>
+      <MarqueeDemo/>
+      <Footer/>
+     
     </div>
   );
 }

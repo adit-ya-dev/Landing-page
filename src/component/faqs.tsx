@@ -1,7 +1,7 @@
-"use client";
+
 import { cn } from "@/lib/utils";
 import { Marquee } from "@/components/magicui/marquee";
-import { FileQuestionIcon } from "lucide-react";
+
 
 const reviews = [
   {
